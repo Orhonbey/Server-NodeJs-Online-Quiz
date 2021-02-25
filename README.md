@@ -3,7 +3,7 @@
  
  
  - Server Özellikler
- - Google E tablo üzerinden veri tabanına Otomatik Soru Kayıt etme Dilediğiniz gibi tablodan Soru çoğaltıp güncelleye bilirsiniz.
+ - Google E tablo üzerinden veri tabanına Otomatik Soru Kayıt etme ile dilediğiniz gibi tablodan Soru çoğaltıp güncelleye bilirsiniz.
  mongo db güncellemek veya soruları çoğaltmak için node js terminal üzerinden 'QuestionSaveDB' yazarak Veritabanına kayıt edilir .
  Şuan için benim google e tablolarım üzerinden çekiyor siz değiştire bilirsiniz .
  - mini lobby sistemi 
